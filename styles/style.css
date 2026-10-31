@@ -2695,6 +2695,13 @@
 .month_img {
   text-align: center;
 }
+.month_img img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
 
 @media only screen and (max-width: 860px) {
   .sub_special {
